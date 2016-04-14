@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconrabbinic00othogoog_0326.png"; bbox 0 0 2467 4078; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1011 221 1999 306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1011 221 1999 306">
+     <span class='ocr_line' id='line_1_1' title="bbox 1011 221 1999 306; baseline 0.007 -6"><span class='ocrx_word' id='word_1_1' title='bbox 1011 221 1205 300; x_wconf 63' lang='lat'><strong>1138</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1831 229 1999 306; x_wconf 52' lang='grc' dir='ltr'><strong>Μ(</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 205 3612 2025 3695">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 205 3612 2025 3695">
+     <span class='ocr_line' id='line_1_2' title="bbox 205 3612 2025 3695; baseline -0.002 -20"><span class='ocrx_word' id='word_1_3' title='bbox 205 3612 370 3625; x_wconf 53' lang='lat'><strong>····</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 375 3631 383 3634; x_wconf 86' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 634 3612 638 3615; x_wconf 87' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1128 3612 1174 3675; x_wconf 63' lang='grc' dir='ltr'><strong>ι’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1215 3614 1251 3695; x_wconf 82' lang='lat'>5</span> <span class='ocrx_word' id='word_1_8' title='bbox 1825 3612 2025 3673; x_wconf 61' lang='lat' dir='ltr'><strong>mens</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
